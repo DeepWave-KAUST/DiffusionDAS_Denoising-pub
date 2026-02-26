@@ -1,8 +1,7 @@
 ![LOGO](https://github.com/DeepWave-KAUST/DiffusionDAS_Denoising/blob/main/asset/DiffDAS.png)
 
-Reproducible material for **DW0094:** **Self-supervised Diffusion Model for Distributed Acoustic Sensing Data Denoising - Omar M. Saad and Tariq Alkhalifah**
+Reproducible material for: **Self-supervised Diffusion Model for Distributed Acoustic Sensing Data Denoising - Omar M. Saad and Tariq Alkhalifah**
 
-[Click here](https://kaust.sharepoint.com/sites/M365_Deepwave_Documents/Shared%20Documents/Forms/AllItems.aspx?FolderCTID=0x0120009F9BE65BA42D194BBEFB62CBD730AF6A&id=%2Fsites%2FM365%5FDeepwave%5FDocuments%2FShared%20Documents%2FRestricted%20Area%2FREPORTS%2FDW0094) to access the Project Report. Authentication to the _Restricted Area_ filespace is required.
 
 # Project structure
 This repository is organized as follows:
@@ -42,5 +41,5 @@ conda activate DiffDAS
 configurations may be required for different combinations of workstation and GPU.
 
 ## Cite us 
-DW0094 - Omar M. Saad and Tariq Alkhalifah (2025) Self-supervised Diffusion Model for Distributed Acoustic Sensing Data Denoising.
+Omar M. Saad and Tariq Alkhalifah (2026) Self-supervised Diffusion Model for Distributed Acoustic Sensing Data Denoising, Geophysical Prospective.
 
