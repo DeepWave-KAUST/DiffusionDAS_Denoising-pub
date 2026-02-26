@@ -18,6 +18,8 @@ The following notebooks are provided (**using MATLAB to prepare the CWT scales**
 - :orange_book: ``Diffusion_DAS_Denoising_FORGE.ipynb``: notebook performing self-supervised Diffusion DAS denoising for FORGE example;
 - :orange_book: ``Diffusion_DAS_Denoising_SAFOD.ipynb``: notebook performing self-supervised Diffusion DAS denoising for SAFOD example;
 - :orange_book: ``Diffusion_DAS_Denoising_Greece.ipynb``: notebook performing self-supervised Diffusion DAS denoising for Greece example;
+- :orange_book: ``Diffusion_DAS_Denoising_FORGE_PythonCWT.ipynb``: notebook performing self-supervised Diffusion DAS denoising for FORGE example using CWT-Python version;
+
 
 If you prefer not to use MATLAB for preparing the CWT, the following notebook (Python version) is provided to generate the CWT scales. **However, please note that the Python CWT implementation is not optimal, as it tends to introduce more signal leakage compared to the more stable and reliable CWT computation available in MATLAB**
 - :orange_book: ``Diffusion_DAS_Denoising_FORGE_PythonCWT.ipynb``: notebook for self-supervised diffusion-based DAS denoising on the FORGE example, using 2D CWT scales computed with the Python package.
