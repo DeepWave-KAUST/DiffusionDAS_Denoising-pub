@@ -7,7 +7,7 @@ Reproducible material for: **Self-supervised Diffusion Model for Distributed Aco
 This repository is organized as follows:
 
 * :open_file_folder: **asset**: folder containing logo;
-* :open_file_folder: **data**: folder containing data (uploaded to the restricted area);
+* :open_file_folder: **data**: folder containing data (uploaded to https://drive.google.com/file/d/1h60QkikRrdyyoodnAl7BT2BNpYOGf7RL/view?usp=drive_link);
 * :open_file_folder: **Prepare_CWT_MATLAB**: folder containing a demo example for preparing the CWT using MATLAB. It is a more stable version of the 2D CWT using MATLAB.
 * :open_file_folder: **py_cwt2d**: includes CWT package for the 2D CWT using Python.
 
