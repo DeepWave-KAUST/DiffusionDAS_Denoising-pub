@@ -41,5 +41,6 @@ conda activate DiffDAS
 configurations may be required for different combinations of workstation and GPU.
 
 ## Cite us 
-Omar M. Saad and Tariq Alkhalifah (2026) Self-supervised Diffusion Model for Distributed Acoustic Sensing Data Denoising, Geophysical Prospective.
+Omar M. Saad and Tariq Alkhalifah (2026) Self-supervised Diffusion Model for Distributed Acoustic Sensing Data Denoising, Geophysical Prospecting.
+.
 
