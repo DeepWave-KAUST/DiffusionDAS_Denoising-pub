@@ -1,6 +1,6 @@
 ![LOGO](https://github.com/DeepWave-KAUST/DiffusionDAS_Denoising/blob/main/asset/DiffDAS.png)
 
-Reproducible material for: **Self-supervised Diffusion Model for Distributed Acoustic Sensing Data Denoising - Omar M. Saad and Tariq Alkhalifah**
+Reproducible material for: **Distributed Acoustic Sensing Denoising Using a Self-supervised Conditional Diffusion Model - Omar M. Saad and Tariq Alkhalifah**
 
 
 # Project structure
@@ -47,13 +47,13 @@ configurations may be required for different combinations of workstation and GPU
 If you use this work in your research, please cite:
 
 ```bibtex
-@inproceedings{m2026self,
-  title={Self-supervised diffusion model for distributed acoustic sensing data denoising},
-  author={M. Saad, Omar and Alkhalifah, Tariq},
-  booktitle={International Meeting for Applied Geoscience \& Energy Expanded Abstracts},
-  volume={44},
-  number={1},
-  pages={630--634},
+@article{saad2026distributed,
+  title={Distributed Acoustic Sensing Denoising Using a Self-supervised Conditional Diffusion Model},
+  author={Saad, Omar M and Alkhalifah, Tariq},
+  journal={Geophysical Prospecting},
+  volume={74},
+  number={3},
+  pages={e70154},
   year={2026},
-  organization={Society of Exploration Geophysicists}
+  publisher={Wiley Online Library}
 }
